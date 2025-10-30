@@ -1,2 +1,2 @@
 # cqwm
-learn to use
+# Day 1
